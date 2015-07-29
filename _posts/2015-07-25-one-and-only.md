@@ -7,18 +7,18 @@ description: girls
 title: 'One & Only'
 tags:
   - ''
+datePublished: '2015-07-25T18:42:50.684Z'
+dateModified: '2015-07-29T18:55:56.323Z'
+sourcePath: _posts/2015-07-25-one-and-only.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-datePublished: '2015-07-25T18:42:50.684Z'
-dateModified: '2015-07-25T18:42:50.684Z'
-sourcePath: _posts/2015-07-25-one-and-only.md
-published: true
 url: one-and-only/index.html
-_type: Article
+_type: WebPage
 
 ---
 I used to see onenever noticed manyshe was my allshe was my every engulfed by time and spaceeach sighteach wordeach pace
