@@ -1,7 +1,6 @@
-name: null
+name: Taylor Gendron
 favicon: null
 layout_spectrum: 0.8
-typography_spectrum: 0.5
 cta:
   domain: null
   bucket: null
@@ -22,5 +21,5 @@ color:
   rhythmicContrast: 0.5
 purpose:
   - name: awareness
-    item: null
+    item: 81603361-74a2-4170-b7c7-9fa721c77991
     url: null
